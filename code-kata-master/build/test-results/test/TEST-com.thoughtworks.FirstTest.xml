@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.thoughtworks.FirstTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-05-11T13:33:40" hostname="YHY81H6PVT3OTNO" time="0.001">
+  <properties/>
+  <testcase name="setupShouldBeReady" classname="com.thoughtworks.FirstTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
